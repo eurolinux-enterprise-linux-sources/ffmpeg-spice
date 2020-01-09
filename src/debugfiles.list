@@ -1,0 +1,23 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/lib64
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/27
+%dir /usr/lib/debug/.build-id/f5
+%dir /usr/lib/debug/.build-id/04
+/usr/lib/debug/usr/lib64/libqavformat.so.52.debug
+/usr/lib/debug/usr/lib64/libqavformat.so.52.22.1.debug
+/usr/lib/debug/usr/lib64/libqavcodec.so.51.71.0.debug
+/usr/lib/debug/usr/lib64/libqavutil.so.49.10.0.debug
+/usr/lib/debug/usr/lib64/libqavformat.so.debug
+/usr/lib/debug/usr/lib64/libqavcodec.so.51.debug
+/usr/lib/debug/usr/lib64/libqavcodec.so.debug
+/usr/lib/debug/usr/lib64/libqavutil.so.49.debug
+/usr/lib/debug/usr/lib64/libqavutil.so.debug
+/usr/lib/debug/.build-id/27/8e732b4c2eb43321614c288f730c632e046ae9
+/usr/lib/debug/.build-id/27/8e732b4c2eb43321614c288f730c632e046ae9.debug
+/usr/lib/debug/.build-id/f5/36363962ad4ec4d1c7dece84933684f10bfeec
+/usr/lib/debug/.build-id/f5/36363962ad4ec4d1c7dece84933684f10bfeec.debug
+/usr/lib/debug/.build-id/04/07f9b4d7e397583550492e73314bb7c6220736
+/usr/lib/debug/.build-id/04/07f9b4d7e397583550492e73314bb7c6220736.debug
+/usr/src/debug/qffmpeg-20080908

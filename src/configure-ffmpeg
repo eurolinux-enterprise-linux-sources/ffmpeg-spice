@@ -1,0 +1,29 @@
+#!/bin/sh
+./configure \
+    --disable-demuxers \
+    --disable-ffserver \
+    --disable-bsfs \
+    --disable-parsers \
+    --disable-protocols \
+    --disable-muxers \
+    --disable-decoders \
+    --disable-encoders \
+    --enable-encoder=mjpeg \
+    --enable-encoder=rawvideo \
+    --enable-decoder=mjpeg \
+    --enable-muxer=mjpeg \
+    --enable-demuxer=mjpeg \
+    --enable-parser=mjpeg \
+    --enable-decoder=rawvideo\
+    --enable-demuxer=yuv4mpegpipe\
+    --enable-muxer=yuv4mpegpipe\
+    --enable-demuxer=rawvideo\
+    --enable-muxer=rawvideo\
+    --enable-protocol=file \
+    --enable-pthreads \
+    --enable-static \
+    --disable-shared \
+    --enable-gpl \
+    --disable-stripping \
+    "$@"
+
